@@ -1,5 +1,5 @@
 ---
-title: The Trinity: What is Three-in-One?
+title: "The Trinity: What is Three-in-One?"
 ---
 
 *This was [originally posted](http://twominutetheology.com/the-trinity-what-is-three-in-one/) on Two Minute Theology.*
