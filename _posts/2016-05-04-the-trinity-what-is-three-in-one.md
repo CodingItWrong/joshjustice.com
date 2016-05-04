@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "The Trinity: What is Three-in-One?"
+date:   2016-05-04 14:36:00 -0400
 ---
 
 *This was [originally posted](http://twominutetheology.com/the-trinity-what-is-three-in-one/) on Two Minute Theology.*
@@ -12,4 +14,4 @@ First, what does it mean that God is three in person? It doesn’t mean they’r
 
 This contrasts with the view of modalism, which says that there is only one God, and he just appears in three different forms. If this were true, the Father wouldn’t have a real relationship with the Son, because the Son would actually be the Father himself. Bruce Wayne can’t be friends with Batman, because the two are different forms of the same person.
 
-In [my next post]({% post_url 2015-05-04-the-trinity-what-is-three-in-one-part-2 %}), I’ll talk about the Biblical grounding for the concept of God’s oneness of essence.
+In [my next post]({% post_url 2016-05-04-the-trinity-what-is-three-in-one-part-2 %}), I’ll talk about the Biblical grounding for the concept of God’s oneness of essence.

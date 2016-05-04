@@ -1,10 +1,12 @@
 ---
+layout: post
 title: "The Trinity: What is Three-in-One? Part 2"
+date:   2016-05-04 14:37:00 -0400
 ---
 
 *This was [previously posted](http://twominutetheology.com/the-trinity-what-is-three-in-one-part-two/) on Two Minute Theology.*
 
-In [my previous post]({% post_url 2015-05-04-the-trinity-what-is-three-in-one %}), I talked about why it’s important for Christians to know the Biblical basis for the doctrine of the Trinity, for the idea that God is one in essence and three in person. I discussed what it means that God is three in person. Now, let’s look into what it means that God is one in essence—a more complex topic.
+In [my previous post]({% post_url 2016-05-04-the-trinity-what-is-three-in-one %}), I talked about why it’s important for Christians to know the Biblical basis for the doctrine of the Trinity, for the idea that God is one in essence and three in person. I discussed what it means that God is three in person. Now, let’s look into what it means that God is one in essence—a more complex topic.
 
 Dr. Scott Horrell’s research suggests three Biblical truths that teach us that the Trinity is one in essence. Each truth alone isn’t enough to justify the phrase “one in essence,” but taken together they make a good case.
 
