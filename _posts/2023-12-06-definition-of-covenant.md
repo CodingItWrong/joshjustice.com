@@ -18,7 +18,7 @@ Now, it's true that in the New Testament almost all uses of the word translated 
 
 In the Old Testament it's a different story. While there are many uses of covenant (*berith*) referring to God's agreement with man, there are also many usages of it in agreements between people. Do the agreements between people match the description Keller gave? Some of them do, but others certainly do not. For example:
 
-In Gen 21:27-32 Abraham and Abimelech made an agreement that Abraham dug a certain well. Was this an intimate and personal relationship? Did the good of the relationship take precedence over the needs of the individual? No, this is as simple a business agreement as you could expect. They simply agreed on who owned the well.
+In Genesis 21:27-32 Abraham and Abimelech made an agreement that Abraham dug a certain well. Was this an intimate and personal relationship? Did the good of the relationship take precedence over the needs of the individual? No, this is as simple a business agreement as you could expect. They simply agreed on who owned the well.
 
 A number of treaties between nations are recorded. In 1 Kings 20:34, Ben-hadad makes a covenant with Ahab—not out of selfless love, but to avoid being killed. In Ezekiel 17:12-18 the king of Babylon makes a covenant with one of the royal offspring, not out of selfless love, but simply to get a commitment that Israel would not rebel.
 
@@ -26,9 +26,9 @@ In Joshua 9:3-21 the Gibeonites deceive Joshua into thinking they are from a lon
 
 In Isaiah 28:15-18, Isaiah says that the hearers have made a covenant with death. Does this mean that they had an intimate and personal relationship with death? Did the good of their relationship with death take precedence over their own well-being?
 
-In Psa 83:5, nations make a covenant to wipe out Israel. Their covenant isn’t with Israel, so it’s not a problem for the definition of covenant that they want to do harm to Israel. But is this an intimate and personal relationship?
+In Psalm 83:5, nations make a covenant to wipe out Israel. Their covenant isn’t with Israel, so it’s not a problem for the definition of covenant that they want to do harm to Israel. But is this an intimate and personal relationship?
 
-In Hos 12:1, it’s said that people multiply falsehood and violence, and make a covenant with Assyria. Is their covenant with Assyria durable and unconditional, when it’s just said that they multiply falsehood?
+In Hosea 12:1, it’s said that people multiply falsehood and violence, and make a covenant with Assyria. Is their covenant with Assyria durable and unconditional, when it’s just said that they multiply falsehood?
 
 In light of these verses, it is not correct to define *berith* to mean a selfless, intimate, unconditional relationship. A *berith* is simply a contract. Some are selfless, intimate, and unconditional, especially ones where God is a party—but others are not. So if you want to describe that kind of arrangement, it is not enough to say “covenant”—you have to specify which kind of covenant you’re talking about.
 
