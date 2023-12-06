@@ -12,7 +12,7 @@ In *The Meaning of Marriage*, Tim Keller writes:
 >
 > What, then, is a covenant? It creates a particular kind of bond that is disappearing in our society. It is a relationship far more intimate and personal than a merely legal, business relationship. Yet at the same time, it is far more durable, binding, and unconditional than one based on mere feeling and affection. A covenant relationship is a stunning blend of law and love.
 
-Is this description true of all covenants? Easton’s Bible Dictionary defines “covenant” at its root as “a contract or agreement between two parties.” So does “covenant” simply mean “contract,” or does it mean the particular kind of contract Keller describes?
+Is this description true of all covenants? [Easton’s Bible Dictionary defines “covenant”](https://www.biblestudytools.com/dictionaries/eastons-bible-dictionary/covenant.html) at its root as “a contract or agreement between two parties.” So does “covenant” simply mean “contract,” or does it mean the particular kind of contract Keller describes?
 
 Now, it's true that in the New Testament almost all uses of the word translated covenant (*diatheke*) refer to God's covenant with people. The two exceptions refer to human agreements in general. Because no details are provided about the latter, you could argue that they might possibly fall into the kind of covenant described here.
 
