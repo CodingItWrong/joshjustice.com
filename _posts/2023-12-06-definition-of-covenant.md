@@ -16,7 +16,7 @@ Is this description true of all covenants? [Easton’s Bible Dictionary defines 
 
 Now, it's true that in the New Testament almost all uses of the word translated covenant (*diatheke*) refer to God's covenant with people. The two exceptions refer to human agreements in general. Because no details are provided about the latter, you could argue that they might possibly fall into the kind of covenant described here.
 
-In the Old Testament it's a different story. While there are many uses of covenant (*berith*) referring to God's agreement with man, there are also many usages of it in agreements between people. Do the agreements between people match the description Keller gave? Some of them do. Do all of them? No, there are many that don’t. For example:
+In the Old Testament it's a different story. While there are many uses of covenant (*berith*) referring to God's agreement with man, there are also many usages of it in agreements between people. Do the agreements between people match the description Keller gave? Some of them do, but others certainly do not. For example:
 
 In Gen 21:27-32 Abraham and Abimelech made an agreement that Abraham dug a certain well. Was this an intimate and personal relationship? Did the good of the relationship take precedence over the needs of the individual? No, this is as simple a business agreement as you could expect. They simply agreed on who owned the well.
 
