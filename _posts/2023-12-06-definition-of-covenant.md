@@ -7,7 +7,9 @@ In *The Meaning of Marriage*, Tim Keller writes:
 > Throughout history there have always been consumer relationships. Such a relationship lasts only as long as the vendor meets your needs at a cost acceptable to you. If another vendor delivers better services or the same services at a better cost, you have no obligation to stay in a relationship to the original vendor. In consumer relationships, it could be said that the individual’s needs are more important than the relationship.
 >
 > There have also always been covenantal relationships. These are relationships that are binding on us. In a covenant, the good of the relationship takes precedence over the immediate needs of the individual.
+>
 > …
+>
 > What, then, is a covenant? It creates a particular kind of bond that is disappearing in our society. It is a relationship far more intimate and personal than a merely legal, business relationship. Yet at the same time, it is far more durable, binding, and unconditional than one based on mere feeling and affection. A covenant relationship is a stunning blend of law and love.
 
 Is this description true of all covenants? Easton’s Bible Dictionary defines “covenant” at its root as “a contract or agreement between two parties.” So does “covenant” simply mean “contract,” or does it mean the particular kind of contract Keller describes?
